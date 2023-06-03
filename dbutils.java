@@ -1,2 +1,3 @@
-hello guys git commands are very important
+i am adding this now
+hello guys git commainds are very important
 dont miss the classes
